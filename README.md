@@ -25,7 +25,8 @@ ___
 >This is a quote
 
 <!--Links-->
-[My Repositry](https://github.com/mdshahrukh123/repoForReadme/edit/main/README.md)
+[My Repositry](https://github.com/mdshahrukh123/repoForReadme)
+
 [My Repositry](https://github.com/mdshahrukh123/repoForReadme/edit/main/README.md "Repo")
 
 <!--Ul-->
@@ -46,3 +47,22 @@ ___
 <!--Image -->
 ![Markdown Logo]
 (https://markdown-here.com/img/icon256.png)
+
+<!--code block-->
+```bash
+npm install
+npm start
+```
+
+<!-- tables-->
+| Name      | Email                 |
+|-----------|-----------------------|
+| SRK       | mdshahrukhmzn2000@gmail.com| 
+|Shahrukh   | mohdshahrukh@gmail.com|
+
+<!-- task lists-->
+*[x] Task 1
+
+*[x] Task 2
+
+*[]  Task 3

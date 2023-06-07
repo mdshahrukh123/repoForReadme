@@ -1,68 +1,98 @@
-<!-- Headings-->
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### heading 6
 
-<!--Italic-->
-*This text* is italic
-_this text_ is italic
+# 🚀Welcome to Readme.md 🏁
 
-<!--Strong-->
-**This text** is italic
-__This text__ is italic
+This is readme.md file, its a like documentation of our project, In this file we can write everything for showing that what have we done in our project.......
 
-<!--Strikethrough-->
-~~This text~~ is strikethrough
 
-<!--Horizontal-->
----
-___
+## Badges
 
-<!--Blockquote-->
->This is a quote
+Add badges from somewhere like: [shields.io](https://shields.io/)
 
-<!--Links-->
-[My Repositry](https://github.com/mdshahrukh123/repoForReadme)
+[![MIT License](https://img.shields.io/badge/License-JAVA-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/version-jdk%2017-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/Repository-Github-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-[My Repositry](https://github.com/mdshahrukh123/repoForReadme/edit/main/README.md "Repo")
 
-<!--Ul-->
-* Item 1
-* Item 2
-* Item 3
-  * Nested Item 1
-  * Nested Item 2
+# Hi, I'm Md. Shahrukh! 👋
 
-<!--OL-->
-1. Item 1
-1. Item 2
-1. Item 3
 
-<!--Inline code block-->
-`<p>This is a Paragraph</p>`
+## 🔗 Links
+[![](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/mdshahrukh123)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
-<!--Image -->
-![Markdown Logo]
-(https://markdown-here.com/img/icon256.png)
 
-<!--code block-->
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on Spring Basic Project...
+
+🧠 I'm currently learning Spring Boot Framwork...
+
+👯‍♀️ I'm looking to collaborate on IT Sector...
+
+🤔 I'm looking for help with Developing my skills...
+
+💬 Ask me about...
+
+📫 How to reach me...you click my profile
+
+😄 Pronouns...
+
+⚡️ Fun fact...
+
+
+## 🛠 Skills
+Java, SQL, OOPs,  Spring Boot Framwork...!!!!!
+
+
+## Acknowledgements
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`API_KEY`
+
+`ANOTHER_API_KEY`
+
+
+## Installation
+
+Install my-project with npm
+
 ```bash
-npm install
-npm start
+  npm install my-project
+  cd my-project
 ```
+    
+## Features
 
-<!-- tables-->
-| Name      | Email                 |
-|-----------|-----------------------|
-| SRK       | mdshahrukhmzn2000@gmail.com| 
-|Shahrukh   | mohdshahrukh@gmail.com|
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+- Cross platform
 
-<!-- task lists-->
-*[x] Task 1
 
-*[x] Task 2
+## Roadmap
 
-*[]  Task 3
+- Additional browser support
+
+- Add more integrations
+
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at fake@fake.com
+
